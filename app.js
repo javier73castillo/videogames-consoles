@@ -1,5 +1,5 @@
-const urlConsoles = 'https://videogames-api.vercel.app/api/consoles/';
-const urlGames = 'https://videogames-api.vercel.app/api/games/';
+const urlConsoles = 'https://api-videogames-two.vercel.app/api/consoles/';
+const urlGames = 'https://api-videogames-two.vercel.app/api/games/';
 let consoles = [];
 let games = [];
 
